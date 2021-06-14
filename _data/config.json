@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Fresh Theme",
+  "title": "Tao Jiang",
   "layout_style": "overflow",
   "palette": "blue",
   "header": {
@@ -76,7 +76,6 @@
     ]
   },
   "footer": {
-    "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-  },
-  "domain": "https://remarkable-giraffe-6608b.netlify.app"
+    "content": "&copy; Tao Jiang 2021. All rights reserved. "
+  }
 }
