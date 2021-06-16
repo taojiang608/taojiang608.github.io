@@ -1,35 +1,31 @@
 ---
 title: Home
-hide_title: true
+hide_title: false
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Tao Jiang.'
+    title: 'Welcome to Tao''s homepage!'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Hi, I am Tao Jiang, a statistical scientist at [Genentech](https://www.gene.com/), a member of the Roche group. I am interested in machine learning, bioinformatics, and clinical trials. I got my PhD degree in Statistics and Bioinformatics at North Carolina State University, advised by Dr. [Alison Motsinger-Reif](https://scholar.google.com/citations?user=VCbEFscAAAAJ&hl=en).
   - section_id: about
     type: section_content
-    title: About
+    title: News and Updates
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Placeholder
     actions:
       - label: Contact Me
         url: /contact
         style: button
-  - section_id: recent-posts
-    type: section_posts
-    title: Recent Posts
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
+  # - section_id: recent-posts
+  #   type: section_posts
+  #   title: Recent Posts
+  #   posts_number: 4
+  #   actions:
+  #     - label: View Blog
+  #       url: blog/index.html
+  #       style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: Tao Jiang
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
@@ -54,7 +50,5 @@ seo:
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
-layout: body
+layout: advanced
 ---
-
-This is a homepage.

@@ -4,8 +4,8 @@
   "palette": "blue",
   "header": {
     "title": "Tao Jiang",
-    "tagline": "Header Tagline",
-    "profile_img": "images/avatar.png",
+    "tagline": "Statistical Scientist @ Genentech",
+    "profile_img": "images/avatar.jpeg",
     "profile_img_alt": "Author avatar",
     "background": "dark",
     "has_nav": true,
@@ -17,50 +17,43 @@
       },
       {
         "label": "About",
-        "url": "/about/",
+        "url": "/",
         "style": "link"
       },
       {
         "label": "Blog",
-        "url": "/blog/",
+        "url": "/",
         "style": "link"
       }
     ],
     "has_social": true,
     "social_links": [
       {
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "style": "icon",
-        "icon_class": "twitter",
-        "new_window": true
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "style": "icon",
-        "icon_class": "instagram",
-        "new_window": true
-      },
-      {
-        "label": "GitHub",
-        "url": "https://github.com/",
-        "style": "icon",
-        "icon_class": "github",
-        "new_window": true
-      },
-      {
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
+        "url": "https://www.linkedin.com/in/tao--jiang/",
         "style": "icon",
         "icon_class": "linkedin",
         "new_window": true
       },
       {
-        "label": "DEV",
-        "url": "https://dev.to/",
+        "label": "Twitter",
+        "url": "https://twitter.com/TaoJiang608",
         "style": "icon",
-        "icon_class": "dev",
+        "icon_class": "twitter",
+        "new_window": true
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/taojiang608",
+        "style": "icon",
+        "icon_class": "github",
+        "new_window": true
+      },
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=NeJg-u4AAAAJ&hl=en&authuser=1",
+        "style": "icon",
+        "icon_class": "google-scholar",
         "new_window": true
       }
     ]
