@@ -177,7 +177,7 @@ hr {
 }
 
 table {
-  border-bottom: 1px solid _palette(border);
+  border-bottom: 0px solid _palette(border);
   line-height: 1.5;
   margin: 0 0 1.66667rem;
   max-width: 100%;
@@ -195,7 +195,7 @@ caption {
 
 th,
 td {
-  border-top: 1px solid _palette(border);
+  border-top: 0px solid _palette(border);
   padding: 0.5em 5px;
 }
 

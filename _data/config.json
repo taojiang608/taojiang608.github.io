@@ -4,7 +4,7 @@
   "palette": "blue",
   "header": {
     "title": "Tao Jiang",
-    "tagline": "Statistical Scientist @ Genentech",
+    "tagline": "tao.jiang608@gmail.com",
     "profile_img": "images/avatar.jpeg",
     "profile_img_alt": "Author avatar",
     "background": "dark",
@@ -16,7 +16,7 @@
         "style": "link"
       },
       {
-        "label": "About",
+        "label": "Projects",
         "url": "/",
         "style": "link"
       },
