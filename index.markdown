@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Welcome to Tao''s homepage!'
     content: >-
-      Hi, I am Tao Jiang, a statistical scientist at [Genentech](https://www.gene.com/), a member of the Roche group. I am interested in machine learning, bioinformatics, and clinical research. I got my PhD degree in Statistics and Bioinformatics at North Carolina State University, advised by Dr. [Alison Motsinger-Reif](https://scholar.google.com/citations?user=VCbEFscAAAAJ&hl=en).
+      Hi, I am Tao Jiang, a statistical scientist at [Genentech](https://www.gene.com/), a member of the Roche group. I am interested in machine learning, bioinformatics, and causal inference. I got my PhD degree in Statistics and Bioinformatics at North Carolina State University, advised by Dr. [Alison Motsinger-Reif](https://scholar.google.com/citations?user=VCbEFscAAAAJ&hl=en).
   - section_id: about
     type: section_content
     title: News and Updates
