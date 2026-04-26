@@ -10,7 +10,7 @@ interface Props {
 
 const {
   title,
-  description = "Tao Jiang — Statistical Scientist at Genentech/Roche. Machine learning, bioinformatics, and causal inference.",
+  description = "Tao Jiang — Data Scientist at Genentech. Machine learning, bioinformatics, and causal inference.",
   image = "/images/avatar.jpeg",
   type = "website",
 } = Astro.props;
@@ -50,17 +50,16 @@ const socialImageURL = new URL(image, Astro.site);
         "@context": "https://schema.org",
         "@type": "Person",
         name: "Tao Jiang",
-        jobTitle: "Statistical Scientist",
+        jobTitle: "Data Scientist",
         worksFor: {
           "@type": "Organization",
           name: "Genentech",
-          parentOrganization: { "@type": "Organization", name: "Roche" },
         },
         url: Astro.site?.toString(),
         sameAs: [
           "https://www.linkedin.com/in/tao--jiang/",
           "https://github.com/taojiang608",
-          "https://scholar.google.com/citations?user=NeJg-u4AAAAJ",
+          "https://scholar.google.com/citations?user=exnyU4QAAAAJ",
         ],
       })}
     />
