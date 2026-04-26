@@ -1,0 +1,25 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Sidebar from "@/components/Sidebar.astro";
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  type?: string;
+}
+
+const { title, description, image, type } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} image={image} type={type}>
+  <Sidebar />
+  <main
+    class="min-h-screen pt-16 lg:ml-72 lg:pt-0"
+    id="main-content"
+  >
+    <div class="mx-auto max-w-3xl px-6 py-12 lg:px-12 lg:py-16">
+      <slot />
+    </div>
+  </main>
+</BaseLayout>
